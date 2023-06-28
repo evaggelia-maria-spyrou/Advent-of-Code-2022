@@ -1,0 +1,15 @@
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\FirstChallenge.csproj.AssemblyReference.cache
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\FirstChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\FirstChallenge.AssemblyInfoInputs.cache
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\FirstChallenge.AssemblyInfo.cs
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\FirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\bin\Debug\net7.0\FirstChallenge.exe
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\bin\Debug\net7.0\FirstChallenge.deps.json
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\bin\Debug\net7.0\FirstChallenge.runtimeconfig.json
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\bin\Debug\net7.0\FirstChallenge.dll
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\bin\Debug\net7.0\FirstChallenge.pdb
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\FirstChallenge.dll
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\refint\FirstChallenge.dll
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\FirstChallenge.pdb
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\FirstChallenge.genruntimeconfig.cache
+C:\Users\Evaggelia\source\repos\FirstChallenge\FirstChallenge\obj\Debug\net7.0\ref\FirstChallenge.dll

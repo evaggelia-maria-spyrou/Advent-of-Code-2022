@@ -1,0 +1,15 @@
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\bin\Debug\net7.0\FourthChallenge.exe
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\bin\Debug\net7.0\FourthChallenge.deps.json
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\bin\Debug\net7.0\FourthChallenge.runtimeconfig.json
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\bin\Debug\net7.0\FourthChallenge.dll
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\bin\Debug\net7.0\FourthChallenge.pdb
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\FourthChallenge.csproj.AssemblyReference.cache
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\FourthChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\FourthChallenge.AssemblyInfoInputs.cache
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\FourthChallenge.AssemblyInfo.cs
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\FourthChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\FourthChallenge.dll
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\refint\FourthChallenge.dll
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\FourthChallenge.pdb
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\FourthChallenge.genruntimeconfig.cache
+C:\Users\Evaggelia\source\repos\FourthChallenge\FourthChallenge\obj\Debug\net7.0\ref\FourthChallenge.dll

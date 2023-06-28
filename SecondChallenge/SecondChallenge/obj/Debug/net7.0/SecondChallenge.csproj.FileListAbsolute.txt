@@ -1,0 +1,15 @@
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\bin\Debug\net7.0\SecondChallenge.exe
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\bin\Debug\net7.0\SecondChallenge.deps.json
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\bin\Debug\net7.0\SecondChallenge.runtimeconfig.json
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\bin\Debug\net7.0\SecondChallenge.dll
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\bin\Debug\net7.0\SecondChallenge.pdb
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\SecondChallenge.csproj.AssemblyReference.cache
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\SecondChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\SecondChallenge.AssemblyInfoInputs.cache
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\SecondChallenge.AssemblyInfo.cs
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\SecondChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\SecondChallenge.dll
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\refint\SecondChallenge.dll
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\SecondChallenge.pdb
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\SecondChallenge.genruntimeconfig.cache
+C:\Users\Evaggelia\source\repos\SecondChallenge\SecondChallenge\obj\Debug\net7.0\ref\SecondChallenge.dll

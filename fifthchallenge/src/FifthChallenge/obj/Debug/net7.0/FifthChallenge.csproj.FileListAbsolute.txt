@@ -1,0 +1,17 @@
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\bin\Debug\net7.0\FifthChallenge.exe
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\bin\Debug\net7.0\FifthChallenge.deps.json
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\bin\Debug\net7.0\FifthChallenge.runtimeconfig.json
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\bin\Debug\net7.0\FifthChallenge.dll
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\bin\Debug\net7.0\FifthChallenge.pdb
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.csproj.AssemblyReference.cache
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.AssemblyInfoInputs.cache
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.AssemblyInfo.cs
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.dll
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\refint\FifthChallenge.dll
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.pdb
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.genruntimeconfig.cache
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\ref\FifthChallenge.dll
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\fifthchallenge\src\FifthChallenge\obj\Debug\net7.0\FifthChallenge.csproj.CopyComplete

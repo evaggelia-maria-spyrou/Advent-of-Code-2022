@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "afVwtMsqKYnEm+W/Oq1lx2uYGowsPSe52OsVpv9ZnuPE9DGBv+H8jyLFpWTGC/RQb4fdZvG9I70d1IHf7AXWgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Evaggelia\\source\\repos\\Advent-of-Code-2022\\fifthchallenge\\src\\FifthChallenge\\FifthChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evaggelia\\.nuget\\packages\\htmlagilitypack\\1.11.48\\htmlagilitypack.1.11.48.nupkg.sha512"
+  ],
+  "logs": []
+}
