@@ -4,7 +4,7 @@
         static async Task Main(string[] args)
         {
             var url = "https://adventofcode.com/2022/day/5/input";
-            var cookies = "sessionCookies";
+            var cookies = "SessionCookies";
             var httpClient = new HttpClient();
 
             httpClient.DefaultRequestHeaders.Add("Cookie", $"session={cookies}");
@@ -16,14 +16,17 @@
                 List<string> dataList = new List<string>(data.Split("\n"));
                 MakeTheTables makeTheTables=new MakeTheTables();
                 SequenceOfTheLastCrates seq=new SequenceOfTheLastCrates();
-                //Create the table of stacks of crates
-                var tableOfCrates=makeTheTables.MakeTheTableOfTheCrates(dataList);
+                //Create the table of stacks of crates for first Task
+                var tableOfCratesOne=makeTheTables.MakeTheTableOfTheCrates(dataList);
+                ////Create the table of stacks of crates for first TaskTwo
+                var tableOfCratesTwo=makeTheTables.MakeTheTableOfTheCrates(dataList);
+
                 //Create the table of steps and moves of crates
                 var tableOfSteps=makeTheTables.MakeTheTableOfSteps(dataList);
                 //Task1
-                seq.TaskOne(tableOfCrates,tableOfSteps);
+                seq.TaskOne(tableOfCratesOne,tableOfSteps);
                 //Task2
-                seq.TaskTwo(tableOfCrates,tableOfSteps);
+                seq.TaskTwo(tableOfCratesTwo,tableOfSteps);
 
 
 
