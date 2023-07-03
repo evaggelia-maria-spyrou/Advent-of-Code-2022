@@ -1,0 +1,15 @@
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\bin\Debug\net7.0\SixthChallenge.exe
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\bin\Debug\net7.0\SixthChallenge.deps.json
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\bin\Debug\net7.0\SixthChallenge.runtimeconfig.json
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\bin\Debug\net7.0\SixthChallenge.dll
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\bin\Debug\net7.0\SixthChallenge.pdb
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\SixthChallenge.csproj.AssemblyReference.cache
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\SixthChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\SixthChallenge.AssemblyInfoInputs.cache
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\SixthChallenge.AssemblyInfo.cs
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\SixthChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\SixthChallenge.dll
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\refint\SixthChallenge.dll
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\SixthChallenge.pdb
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\SixthChallenge.genruntimeconfig.cache
+C:\Users\Evaggelia\source\repos\Advent-of-Code-2022\sixthchallenge\src\SixthChallenge\obj\Debug\net7.0\ref\SixthChallenge.dll
