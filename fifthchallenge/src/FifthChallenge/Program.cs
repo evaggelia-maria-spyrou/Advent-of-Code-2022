@@ -18,7 +18,7 @@
                 SequenceOfTheLastCrates seq=new SequenceOfTheLastCrates();
                 //Create the table of stacks of crates for first Task
                 var tableOfCratesOne=makeTheTables.MakeTheTableOfTheCrates(dataList);
-                ////Create the table of stacks of crates for first TaskTwo
+                ////Create the table of stacks of crates for Second Task
                 var tableOfCratesTwo=makeTheTables.MakeTheTableOfTheCrates(dataList);
 
                 //Create the table of steps and moves of crates
